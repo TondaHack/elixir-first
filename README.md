@@ -1,7 +1,8 @@
 # Todos
+## Based on tutorial https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5
+
 
 To start your Phoenix app:
-https://becoming-functional.com/building-a-rest-api-with-phoenix-and-elixir-b12dcec302c5
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.create && mix ecto.migrate`
   * Install Node.js dependencies with `npm install`
